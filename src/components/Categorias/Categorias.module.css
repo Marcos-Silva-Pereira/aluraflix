@@ -1,0 +1,11 @@
+.categoria {
+    width: 1350px;
+    height: 435px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 30px;
+}
